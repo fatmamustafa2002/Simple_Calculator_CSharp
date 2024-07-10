@@ -1,0 +1,14 @@
+/media/fatma/01D75CE1179310B0/itWorks/EssamAbdelNabiChannel/Practical/Simple_Calculator_CSharp/Simple_Calculator/bin/Debug/net8.0/Simple_Calculator
+/media/fatma/01D75CE1179310B0/itWorks/EssamAbdelNabiChannel/Practical/Simple_Calculator_CSharp/Simple_Calculator/bin/Debug/net8.0/Simple_Calculator.deps.json
+/media/fatma/01D75CE1179310B0/itWorks/EssamAbdelNabiChannel/Practical/Simple_Calculator_CSharp/Simple_Calculator/bin/Debug/net8.0/Simple_Calculator.runtimeconfig.json
+/media/fatma/01D75CE1179310B0/itWorks/EssamAbdelNabiChannel/Practical/Simple_Calculator_CSharp/Simple_Calculator/bin/Debug/net8.0/Simple_Calculator.dll
+/media/fatma/01D75CE1179310B0/itWorks/EssamAbdelNabiChannel/Practical/Simple_Calculator_CSharp/Simple_Calculator/bin/Debug/net8.0/Simple_Calculator.pdb
+/media/fatma/01D75CE1179310B0/itWorks/EssamAbdelNabiChannel/Practical/Simple_Calculator_CSharp/Simple_Calculator/obj/Debug/net8.0/Simple_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/media/fatma/01D75CE1179310B0/itWorks/EssamAbdelNabiChannel/Practical/Simple_Calculator_CSharp/Simple_Calculator/obj/Debug/net8.0/Simple_Calculator.AssemblyInfoInputs.cache
+/media/fatma/01D75CE1179310B0/itWorks/EssamAbdelNabiChannel/Practical/Simple_Calculator_CSharp/Simple_Calculator/obj/Debug/net8.0/Simple_Calculator.AssemblyInfo.cs
+/media/fatma/01D75CE1179310B0/itWorks/EssamAbdelNabiChannel/Practical/Simple_Calculator_CSharp/Simple_Calculator/obj/Debug/net8.0/Simple_Calculator.csproj.CoreCompileInputs.cache
+/media/fatma/01D75CE1179310B0/itWorks/EssamAbdelNabiChannel/Practical/Simple_Calculator_CSharp/Simple_Calculator/obj/Debug/net8.0/Simple_Calculator.dll
+/media/fatma/01D75CE1179310B0/itWorks/EssamAbdelNabiChannel/Practical/Simple_Calculator_CSharp/Simple_Calculator/obj/Debug/net8.0/refint/Simple_Calculator.dll
+/media/fatma/01D75CE1179310B0/itWorks/EssamAbdelNabiChannel/Practical/Simple_Calculator_CSharp/Simple_Calculator/obj/Debug/net8.0/Simple_Calculator.pdb
+/media/fatma/01D75CE1179310B0/itWorks/EssamAbdelNabiChannel/Practical/Simple_Calculator_CSharp/Simple_Calculator/obj/Debug/net8.0/Simple_Calculator.genruntimeconfig.cache
+/media/fatma/01D75CE1179310B0/itWorks/EssamAbdelNabiChannel/Practical/Simple_Calculator_CSharp/Simple_Calculator/obj/Debug/net8.0/ref/Simple_Calculator.dll
